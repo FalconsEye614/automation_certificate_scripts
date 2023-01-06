@@ -1,4 +1,4 @@
-# automation_certificate_sripts
+# automation_certificate_scripts
 These are some of the scripts created to complete the Google IT Automation with Python Courses
 
 __cars.py__
